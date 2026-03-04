@@ -1,8 +1,6 @@
-# Hey, I'm JP 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20JP%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18)
 
-> Full-Stack Web Developer — turning ideas into fast, scalable web experiences.
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5C4&width=435&lines=MERN+Stack+Developer;Laravel+%26+PHP+Enthusiast;Always+learning%2C+always+building.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5C4&width=500&lines=MERN+Stack+Developer;Laravel+%26+PHP+Enthusiast;Always+learning%2C+always+building.;Open+to+exciting+opportunities!)
 
 ---
 
