@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey,%20I'm%20JP%20👋&fontSize=42&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Full-Stack%20Web%20Developer&descAlignY=55&descSize=18)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5C4&width=500&lines=MERN+Stack+Developer;Laravel+%26+PHP+Enthusiast;Always+learning%2C+always+building.;Open+to+exciting+opportunities!)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F5C4&width=500&lines=MERN+Stack+Developer;Laravel+%26+PHP+Dev;Always+learning%2C+always+building.;Open+to+exciting+opportunities!)
 
 ---
 
@@ -27,10 +27,9 @@
 |  **MDRRMO - reporting system** | Full-featured reporting platform with auth, admin dashboard and mapping feature | LARAVEL |
 |  **Archiving** | Storage app with for storing Documents |  Django |
 |  **Portfolio** | Personal space to showcase projects and experiments | React, Tailwind |
-
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
