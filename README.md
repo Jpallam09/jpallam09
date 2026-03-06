@@ -29,6 +29,16 @@
 |  **Portfolio** | Personal space to showcase projects and experiments | React, Tailwind |
 ---
 
+---
+
+## Certifications & GitHub Skills
+
+### GitHub Skills Completed
+![GitHub Skills – Introduction to GitHub](https://img.shields.io/badge/GitHub-Skills-Introduction-blue?style=for-the-badge&logo=github)
+![GitHub Skills – Pull Requests](https://img.shields.io/badge/GitHub-Skills-Pull%20Requests-blue?style=for-the-badge&logo=github)
+![GitHub Skills – GitHub Pages](https://img.shields.io/badge/GitHub-Skills-Pages-blue?style=for-the-badge&logo=github)
+![GitHub Skills – Resolve Merge Conflicts](https://img.shields.io/badge/GitHub-Skills-Merge%20Conflicts-blue?style=for-the-badge&logo=github)
+
 ## Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)
