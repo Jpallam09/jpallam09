@@ -27,17 +27,15 @@
 |  **MDRRMO - reporting system** | Full-featured reporting platform with auth, admin dashboard and mapping feature | LARAVEL |
 |  **Archiving** | Storage app with for storing Documents |  Django |
 |  **Portfolio** | Personal space to showcase projects and experiments | React, Tailwind |
----
 
 ---
 
 ## Certifications & GitHub Skills
 
 ### GitHub Skills Completed
-![GitHub Skills – Introduction to GitHub](https://img.shields.io/badge/GitHub-Skills-Introduction-blue?style=for-the-badge&logo=github)
-![GitHub Skills – Pull Requests](https://img.shields.io/badge/GitHub-Skills-Pull%20Requests-blue?style=for-the-badge&logo=github)
-![GitHub Skills – GitHub Pages](https://img.shields.io/badge/GitHub-Skills-Pages-blue?style=for-the-badge&logo=github)
-![GitHub Skills – Resolve Merge Conflicts](https://img.shields.io/badge/GitHub-Skills-Merge%20Conflicts-blue?style=for-the-badge&logo=github)
+[![GitHub Skills](https://img.shields.io/badge/GitHub%20Skills-Introduction%20to%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jpallam09/skills-introduction-to-github)
+
+---
 
 ## Let's Connect
 
