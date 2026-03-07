@@ -30,10 +30,10 @@
 
 ---
 
-## Certifications & GitHub Skills
-
 ### GitHub Skills Completed
 [![GitHub Skills](https://img.shields.io/badge/GitHub%20Skills-Introduction%20to%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jpallam09/skills-introduction-to-github)
+
+[![GitHub Skills](https://img.shields.io/badge/GitHub%20Skills-Introduction%20to%20GitHub-181717?style=for-the-badge&logo=github)](https://github.com/jpallam09/skills-communicate-using-markdown)
 
 ---
 
