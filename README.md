@@ -53,9 +53,6 @@
 ## github skills
 
 ```
-7 / 7 completed
-─────────────────────────────────────────────────
-```
 
 ![](https://img.shields.io/badge/Introduction%20to%20GitHub-18181b?style=flat-square&logo=github&logoColor=fafafa)
 ![](https://img.shields.io/badge/Communicate%20Using%20Markdown-18181b?style=flat-square&logo=markdown&logoColor=fafafa)
@@ -65,6 +62,4 @@
 ![](https://img.shields.io/badge/Resolve%20Merge%20Conflicts-18181b?style=flat-square&logo=github&logoColor=fafafa)
 ![](https://img.shields.io/badge/Code%20With%20Codespaces-18181b?style=flat-square&logo=github&logoColor=fafafa)
 
-```
-─────────────────────────────────────────────────
 ```
