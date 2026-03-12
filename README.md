@@ -13,6 +13,11 @@
   </tr>
 </table>
 
+---
+
+![about](./about.svg)
+
+---
 
 ## stack
 
