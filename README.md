@@ -3,7 +3,7 @@
     <td width="120" valign="middle">
       <img src="https://github.com/jpallam09.png" width="100" style="border-radius:50%"/>
     </td>
-    <td valign="middle" padding="0 0 0 16px">
+    <td valign="middle" style="padding: 0 0 0 16px">
       <h2>JP Allam</h2>
       <p>Full-Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Open to opportunities</p>
       <p>
@@ -32,6 +32,8 @@
 ![Express](https://img.shields.io/badge/Express-18181b?style=flat-square&logo=express&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/Laravel-18181b?style=flat-square&logo=laravel&logoColor=FF2D20)
 ![PHP](https://img.shields.io/badge/PHP-18181b?style=flat-square&logo=php&logoColor=777BB4)
+![Django](https://img.shields.io/badge/Django-18181b?style=flat-square&logo=django&logoColor=092E20)
+![Python](https://img.shields.io/badge/Python-18181b?style=flat-square&logo=python&logoColor=3776AB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-18181b?style=flat-square&logo=mongodb&logoColor=4EA94B)
 ![MySQL](https://img.shields.io/badge/MySQL-18181b?style=flat-square&logo=mysql&logoColor=00758F)
 ![Docker](https://img.shields.io/badge/Docker-18181b?style=flat-square&logo=docker&logoColor=2496ED)
@@ -52,8 +54,6 @@
 
 ## github skills
 
-```
-
 ![](https://img.shields.io/badge/Introduction%20to%20GitHub-18181b?style=flat-square&logo=github&logoColor=fafafa)
 ![](https://img.shields.io/badge/Communicate%20Using%20Markdown-18181b?style=flat-square&logo=markdown&logoColor=fafafa)
 ![](https://img.shields.io/badge/GitHub%20Pages-18181b?style=flat-square&logo=githubpages&logoColor=fafafa)
@@ -61,5 +61,3 @@
 ![](https://img.shields.io/badge/Review%20Pull%20Requests-18181b?style=flat-square&logo=github&logoColor=fafafa)
 ![](https://img.shields.io/badge/Resolve%20Merge%20Conflicts-18181b?style=flat-square&logo=github&logoColor=fafafa)
 ![](https://img.shields.io/badge/Code%20With%20Codespaces-18181b?style=flat-square&logo=github&logoColor=fafafa)
-
-```
