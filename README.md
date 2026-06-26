@@ -7,7 +7,7 @@
       <h2>JP Allam</h2>
       <p>Full-Stack Developer &nbsp;·&nbsp; MERN &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Open to opportunities</p>
       <p>
-        <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/portfolio-18181b?style=flat-square&logo=google-chrome&logoColor=fafafa"/></a>
+        <a href="https://jpallam.vercel.app"><img src="https://img.shields.io/badge/portfolio-18181b?style=flat-square&logo=google-chrome&logoColor=fafafa"/></a>
       </p>
     </td>
   </tr>
