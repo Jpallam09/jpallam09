@@ -1,18 +1,12 @@
-<table border="0" cellpadding="0" cellspacing="0" align="center">
-  <tr>
-    <td width="120" valign="middle">
-      <img src="https://github.com/jpallam09.png" width="100" style="border-radius:50%"/>
-    </td>
-    <td valign="middle" style="padding: 0 0 0 16px">
-      <h2>John Paul Allam</h2>
-      <p>Software Developer &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Open to opportunities</p>
-      <p>
-        <a href="https://jpallam.vercel.app"><img src="https://img.shields.io/badge/portfolio-18181b?style=flat-square&logo=google-chrome&logoColor=fafafa"/></a>
-        <a href="mailto:allamjohnpaul0901@gmail.com"><img src="https://img.shields.io/badge/email-18181b?style=flat-square&logo=gmail&logoColor=fafafa"/></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<div align="center">
+
+<img src="https://github.com/jpallam09.png" width="100" style="border-radius:50%; margin-bottom: 16px"/>
+
+# John Paul Allam
+
+Software Developer · Next.js · React · Laravel · Open to opportunities
+
+[Portfolio](https://jpallam.vercel.app) · [Email](mailto:allamjohnpaul0901@gmail.com)
 
 ---
 
@@ -88,4 +82,8 @@ Primary languages and frameworks used in recent projects.
 
 ---
 
-[![](https://komarev.com/ghpvc/?username=jpallam09&icon=0&color=0)](https://visitcount.itsvg.in)
+## Visits
+
+[![Total Visits](https://komarev.com/ghpvc/?username=jpallam09&style=flat-square&color=18181b&label=Total%20Visits)](https://visitcount.itsvg.in)
+
+</div>
