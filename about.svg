@@ -20,8 +20,8 @@
   </text>
 
   <!-- Left side: Subtitle -->
-  <text x="40" y="175" font-size="10" fill="#a1a1aa">john paul allam</text>
-  <text x="40" y="190" font-size="10" fill="#52525b">full-stack developer</text>
+  <text x="40" y="175" font-size="10" fill="#a1a1aa">John Paul Allam</text>
+  <text x="40" y="190" font-size="10" fill="#52525b">Software developer</text>
 
   <!-- Divider line -->
   <line x1="280" y1="50" x2="280" y2="490" stroke="#27272a" stroke-width="1"/>
