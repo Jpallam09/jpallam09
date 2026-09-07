@@ -1,15 +1,5 @@
 <div align="center">
 
-<img src="https://github.com/jpallam09.png" width="100" style="border-radius:50%; margin-bottom: 16px"/>
-
-# John Paul Allam
-
-Software Developer · Next.js · React · Laravel · Open to opportunities
-
-[Portfolio](https://jpallam.vercel.app) · [Email](mailto:allamjohnpaul0901@gmail.com)
-
----
-
 ![about](./about.svg)
 
 ---
@@ -65,20 +55,27 @@ Software Developer · Next.js · React · Laravel · Open to opportunities
 
 ## GitHub Stats
 
-### Overview
-Overall contribution activity across public and private repositories.
-
-![](https://github-readme-stats.shion.dev/api?username=jpallam09&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-### Consistency
-Tracking daily commit streaks and long-term engagement.
-
-![](https://streak-stats.demolab.com/?user=jpallam09&theme=dark&hide_border=false)
-
-### Technology Stack
-Primary languages and frameworks used in recent projects.
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=jpallam09&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://github.com/jpallam09">
+        <img src="https://github-readme-stats.shion.dev/api?username=jpallam09&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Overview" width="100%"/>
+      </a>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/jpallam09">
+        <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=jpallam09&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="100%"/>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2">
+      <a href="https://github.com/jpallam09">
+        <img src="https://streak-stats.demolab.com/?user=jpallam09&theme=dark&hide_border=true" alt="GitHub Streak" width="100%"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
