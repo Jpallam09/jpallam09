@@ -30,19 +30,6 @@
 
 ---
 
-## projects
-
-| project | description | stack |
-|---------|-------------|-------|
-| **ezhook** | Custom React hook registry featuring `shadcn/ui` CLI integration and automated JSDoc metadata parsing. Live on Vercel. | Next.js, React, Tailwind, shadcn/ui |
-| **tracked** | Personal job application tracking dashboard designed to monitor active submissions, interview stages, and status updates. | Next.js, React, Tailwind, Node.js |
-| **E-Portfolio** | Interactive portfolio with AI-powered chatbot responses using Gemini API. Live on Vercel. | Next.js, Gemini API, Tailwind |
-| **SMND-Document Digitization Management System** | Desktop document management application for San Mateo North District. Enables categorization and search functionality for district staff. | React, Electron |
-| **ISU San Mateo File Bank System** | Role-based file management system with permission-based access controls for university staff. Implemented document workflow management. Deployed on VPS. | Django, SQLite, MySQL |
-| **Municipal Disaster Risk Reduction and Management System** | Disaster reporting system with emergency data entry and report generation features for municipal government. Deployed on VPS. | Laravel, MySQL |
-
----
-
 ## github skills
 
 ![](https://img.shields.io/badge/Introduction%20to%20GitHub-18181b?style=flat-square&logo=github&logoColor=fafafa)
