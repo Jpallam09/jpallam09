@@ -8,12 +8,9 @@
 
 ![React](https://img.shields.io/badge/React-18181b?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-18181b?style=flat-square&logo=next.js&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/Vue.js-18181b?style=flat-square&logo=vue.js&logoColor=4FC08D)
-![JavaScript](https://img.shields.io/badge/JavaScript-18181b?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-18181b?style=flat-square&logo=typescript&logoColor=3178C6)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-18181b?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
 ![Shadcn](https://img.shields.io/badge/shadcn%2Fui-18181b?style=flat-square&logo=shadcnui&logoColor=ffffff)
-![Electron](https://img.shields.io/badge/Electron-18181b?style=flat-square&logo=electron&logoColor=47848F)
 ![Node.js](https://img.shields.io/badge/Node.js-18181b?style=flat-square&logo=node.js&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-18181b?style=flat-square&logo=express&logoColor=ffffff)
 ![Laravel](https://img.shields.io/badge/Laravel-18181b?style=flat-square&logo=laravel&logoColor=FF2D20)
